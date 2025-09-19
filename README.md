@@ -1,4 +1,4 @@
-This script accompanies the paper “A Novel and Efficient Non-Singularity Algorithm for the Tesseroid Mass Model.”
+This script accompanies the paper “A Novel Non-Singular Algorithm for Efficient Tesseroid Gravity Forward Modeling”
 
 Operating System: Windows 10/11, MATLAB2024
 
